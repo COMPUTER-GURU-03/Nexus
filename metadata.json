@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS",
+  "description": "Futuristic personal management OS with task prioritization, smart daily scheduling, ZMW personal finance, habit tracking, and offline Room analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
